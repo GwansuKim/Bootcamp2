@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/Bootcamp2/TrainingProject/Content/Input/Actions/IA_PressF.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Input/IMC_Default.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_LeftRight.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_Rect.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/EN_Rect.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/EM_Rect.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/63/CXIAKVIDH4C3NDMHE3579D.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/OW/LPYFZMJAQM3OXQNF1FULLR.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_Timer.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_Switch.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/SM_Switch.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BPI_PressF.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/D7/3JAPHJ3NTSYOFPE8VUJJYS.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MV/41YH20VETZJ5295UCV7JWY.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_CounterBox.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/UI/6MK4NPBEONCS4HRKE8FUKE.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_CannonBall.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BP_Cannon.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/SM_Coin.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BP_Coin.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_Cannon.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/BluePrints/BP_Coin.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/GameMode/BP_Hud.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/GameMode/BP_PlayerState.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/Widget/HudWidget.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/GameMode/BP_GameMode.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/GameMode/BP_GameState.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/Training/Widget/AmmoWidget.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/NN/DSE3C2FV0YRHE8XHKBOMP2.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/NP/8AZM3GIL8LQANITQ9RGL0U.uasset",
+				"C:/Work/Bootcamp2/TrainingProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
